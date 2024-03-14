@@ -1,0 +1,58 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+width: 100%;
+height: 100%;
+font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;; */
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+}
+.page1{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+#uppermost{
+    width: 100%;
+    height: 8vh;
+display: flex;
+justify-content: space-between;
+padding-top: 60px;
+font-size:40px;
+color: rgba(0, 0, 0, 0.516) ;
+padding-left: 13%;
+padding-right: 13%;
+font-weight: 100;
+
+background-color: #dfdfdf7d;
+}
+
+.icon1{
+    font-size: 75px;
+    color: #000000f3;
+}
+
+.icon2{
+    font-size: 65px;
+    opacity: 0.5;
+
+}
+
+.icon3{
+    font-size: 65px;
+    opacity: 0.5;
+}
+
+#page2 {
+width: 100%;
+height: 30%;
+display: flex;
+}
