@@ -6,6 +6,7 @@ box-sizing: border-box;
 
 body{
 width: 100%;
+
 height: 100%;
 font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;; */
 }
@@ -13,11 +14,12 @@ font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-s
 .container{
     width: 100%;
     min-height: 100vh;
+
 }
 .page1{
     width: 100%;
     height: 100vh;
-    
+   
 }
 
 #uppermost{
@@ -51,8 +53,15 @@ background-color: #dfdfdf7d;
     opacity: 0.5;
 }
 
-#page2 {
-width: 100%;
-height: 30%;
-display: flex;
-}
+ #page1, h1{
+font-size: 170px;
+width: 60%;
+margin-top: 5%;
+margin-left: 13%;
+align-content: flex-end;
+ }
+
+
+
+
+ 
