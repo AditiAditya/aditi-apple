@@ -58,7 +58,11 @@ font-size: 170px;
 width: 60%;
 margin-top: 5%;
 margin-left: 13%;
-align-content: flex-end;
+ }
+
+ img{
+    width: 700px;
+
  }
 
 
